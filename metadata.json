@@ -2,7 +2,7 @@
     "name": "Bifm",
     "symbol": "BIFM",
     "description": "Bifm Miner Token",
-    "image": "https://bifmminer.online/images/coins/bifm.png",
+    "image": "https://raw.githubusercontent.com/DanePham/bifm_solana/main/bifm.png",
     "attributes": [
       {
         "trait_type": "Item",
