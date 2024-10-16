@@ -1,0 +1,12 @@
+{
+    "name": "Bifm",
+    "symbol": "BIFM",
+    "description": "Bifm Miner Token",
+    "image": "https://bifmminer.online/images/coins/bifm.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
